@@ -9,13 +9,22 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app">Please Wait...</div>
+    <nav>
+    <a href="#/support/">Support</a>
+  </nav>
+  <div id="app">CherpaDocs Loading...🚀</div>
   <script>
     window.$docsify = {
+      markdown: true,
       name: '',
-      repo: ''
+      repo: '',
+      loadNavbar: true,
+      loadSidebar: true
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-php.min.js"></script>
+  <script src="https://raw.githubusercontent.com/PrismJS/prism/gh-pages/components/prism-arduino.min.js"></script>
 </body>
 </html>
