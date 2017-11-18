@@ -1,7 +1,7 @@
 <div id="cs"></div>
 
 # CanvasSlider
-> Lorem ipsum dora explora Lorem ipsum dora explora Lorem ipsum dora explora Lorem ipsum dora explora
+> Control your circuit from a virtual slider.
 
 
 ## Methods Available
@@ -13,7 +13,7 @@
 <div id="cs-co"></div>
 
 ## Create object 
-Lorem ipsum <code>dora explora</code> Lorem ipsum <code>dora explora</code>
+Create an object from **<code>CanvasSlider</code>** outside the **<code>setup()</code>** function
 
 ```       
 CanvasSlider mySlider; 
@@ -30,7 +30,8 @@ void loop(){
 <div id="cs-i"></div>
 
 ## Initialize
-> Example final code
+
+> Initialize **<code>CanvasSlider</code>** using one of two different methods
 
 <div id="cs-i-di"></div>
 
@@ -71,8 +72,9 @@ Use the <code>mySlider.getValue();</code> method as follows:
 <div id="cs-cec"></div>
 
 
-## Example Code (Control LED Brightness)
-> Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+## Example Code
+
+> Control LED brightness from virtual slider connected to pin 9.
 
 	CanvasSlider mySlider; 
 	int const LED_PIN = 9; 

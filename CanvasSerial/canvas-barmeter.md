@@ -1,7 +1,7 @@
 <div id="cb"></div>
 
 # CanvasBarmeter
-> Use a barmeter to visualize a pin or a value.
+> Lorem ipsum dora explora Lorem ipsum dora explora Lorem ipsum dora explora Lorem ipsum dora explora
 
 ## Methods Available
 
@@ -14,7 +14,7 @@
 <div id="cb-co"></div>
 
 ## Create object 
-Create an object from **<code>CanvasBarmeter</code>** outside the **<code>setup()</code>** function
+Lorem ipsum **<code>dora explora</code>** Lorem ipsum **<code>dora explora</code>**
 
 ```       
 CanvasBarmeter myBarmeter; 
@@ -89,7 +89,7 @@ Use the **<code>visualize(int value)</code>** method as follows:
 <div id="ccb-cex"></div>
 
 ## Example Code
-> Read the value of the Temperature sensor connected to pin A0.
+> Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
 
 	CanvasBarmeter myBarmeter; 
 	 

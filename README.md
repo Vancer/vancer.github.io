@@ -1,16 +1,14 @@
 <!-- _coverpage.md -->
 
-
 ![logo](_media/cherpa_logo.png)
 
-# CherpaDocs :rocket:
+# Visualization Canvas
 
-> CherpaDocs helps you solve any troubles you face when using the website!
+> Visualization helps in visualizing hardware components in real-time. Visualization components are constantly increasing. You can use the corresponding components by writing their corresponding code and attaching the component to a physical pin on the Arduino.
 
-- Easy to read
-- No complications
-- Added documentation to all libraries
-	- [Configuration](configuration.md)
+- Easy to use
+- Real-time
+- Constantly adding new components
+	- [available components](_visualization_canvas?id=available-components)
 
-[GitHub](https://github.com/Vancer/Docsify)
-[Get Started](#docsify)
+[Go back to IDE](https://cherpa.io/projects)
